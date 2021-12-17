@@ -9,4 +9,3 @@ def call(String filter_string, int occurrence) {
         currentBuild.result='UNSTABLE'
     }
 }
-#update for the result
